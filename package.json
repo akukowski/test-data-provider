@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/akukowski/test-data-provider/issues"
   },
-  "homepage": "https://github.com/akukowski/test-data-provider#readme"
+  "homepage": "https://github.com/akukowski/test-data-provider#readme",
+  "devDependencies": {
+    "typescript": "^4.1.5"
+  }
 }
