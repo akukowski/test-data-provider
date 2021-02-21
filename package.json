@@ -1,14 +1,14 @@
 {
   "name": "test-data-provider",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple data provider",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
     "build": "tsc",
     "test": "jest",
-    "prepare" : "npm run build",
-    "prepublishOnly" : "npm test",
+    "prepare": "npm run build",
+    "prepublishOnly": "npm test",
     "version": "git add -A src",
     "postversion": "git push && git push --tags"
   },
