@@ -1,6 +1,6 @@
 {
   "name": "test-data-provider",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "simple data provider",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
