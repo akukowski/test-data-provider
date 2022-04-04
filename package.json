@@ -1,6 +1,6 @@
 {
   "name": "test-data-provider",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "simple data provider",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -30,9 +30,9 @@
   },
   "homepage": "https://github.com/akukowski/test-data-provider#readme",
   "devDependencies": {
-    "@types/jest": "^26.0.20",
-    "jest": "^26.6.3",
-    "ts-jest": "^26.5.1",
-    "typescript": "^4.1.5"
+    "@types/jest": "^27.4.1",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.4",
+    "typescript": "^4.6.3"
   }
 }

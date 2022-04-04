@@ -4,7 +4,7 @@ Do not duplicate same tests to check different parameters, use the data provider
 ## Installation
 [![npm version](https://badge.fury.io/js/test-data-provider.svg)](https://badge.fury.io/js/test-data-provider)
 ```javascript
-npm i test-data-provider
+npm install --save-dev test-data-provider
 ```
 
 ## How use
